@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"paleta steel BOOM" , "precio": 75000, "imagen": "PaletaProx.png"},
+    {"id":2, "nombre":"paleta Hans carbon" , "precio": 150000, "imagen": "PaletaProx.png"},
+    {"id":3, "nombre":"paleta royal fibra de vidrio" , "precio": 64000, "imagen": "PaletaProx.png"},
+    {"id":4, "nombre":"paleta Kombat" , "precio": 95000, "imagen": "PaletaProx.png"}
+]
